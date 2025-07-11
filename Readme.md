@@ -30,8 +30,8 @@ numpy
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd ppe-detection-system
+   git clone https://github.com/achuajays/PPE_Detection.git
+   cd PPE_Detection
    ```
 
 2. **Install required packages**
